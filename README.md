@@ -10,6 +10,17 @@ It includes animated and static visualizations to explore:
 - Release years
 - And more!
 
+## ScreenShots
+
+<img width="1646" height="839" alt="image" src="https://github.com/user-attachments/assets/789e7d62-65e7-4300-a7be-ec798652ed2b" />
+
+<img width="1642" height="851" alt="image" src="https://github.com/user-attachments/assets/1e73f507-9f25-4704-ac83-26511a3a70a3" />
+
+<img width="1632" height="799" alt="image" src="https://github.com/user-attachments/assets/61866a85-a7b2-49dc-b7ff-32d7527d6f8b" />
+
+<img width="1631" height="819" alt="image" src="https://github.com/user-attachments/assets/cd0ace9b-373d-4e35-8467-b2c0571de7e6" />
+
+
 ## 📊 Tools Used
 - Python
 - Pandas
